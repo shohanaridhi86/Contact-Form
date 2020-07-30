@@ -1,0 +1,59 @@
+ *{
+ 	margin: 0px;
+ 	padding: 0px;
+ 	font-family: Agency FB;
+
+
+ }
+ .contact{
+ 	width:400px;
+ 	border:2px solid black;
+ 	margin:100px auto 0px;
+ 	padding: 50px;
+ 	background-color: green;
+ 	background-image: url(https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510__340.jpg);
+ 	background-repeat: no-repeat;
+ 	background-size: 100% 100%;
+
+
+ }
+ .contact label{
+ 	display: block;
+ 	color: pink;
+ 	font-weight:bold; 
+ 	margin-top: 10px: 
+
+ }
+ .contact input{
+ 	display: block;
+ 	width: 100%;
+ 	padding:10px;
+ 	border:1px solid black;
+ 	box-sizing: border-box;
+ 	
+
+ }
+ .contact textarea{
+ 	display: block;
+ 	width: 100%;
+ 	padding:10px;
+ 	border:1px solid black;
+ 	box-sizing: border-box;
+ 	margin-bottom: 10px;
+
+ }
+ .contact h2{
+ 	color: white;
+
+ }
+ .contact input[type="Submit"]{
+ 	background-color: pink;
+ 	font-weight: bold;
+ 	color: black;
+ 	cursor: pointer;
+ }
+ input[type="Submit"]:hover{
+ 	background-color: black;
+ 	color: white;
+ }
+
